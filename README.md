@@ -8,7 +8,7 @@ In each page, a header is available at the top, which allows you to navigate wit
 YouTube account, Spotify account, and Facebook account.
 
 Credits:
-- Google Fonts: For providing three different fonts (Raleway, Sedgwick Ave, Sedgwick Ave Display)
+- fonts.google.com: For providing three different fonts (Raleway, Sedgwick Ave, Sedgwick Ave Display)
 - YouTube, Spotify, Facebook: For providing company logo's
 - Irene J Nehls on pixels.com: For providing the "OVO owl" image which was used as the website banner.
 - wikipedia.org: For providing the images of the albums seen in the "Store" page of the website.
