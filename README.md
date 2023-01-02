@@ -8,10 +8,15 @@ In each page, a header is available at the top, which allows you to navigate wit
 YouTube account, Spotify account, and Facebook account.
 
 Credits:
-- fonts.google.com: For providing three different fonts (Raleway, Sedgwick Ave, Sedgwick Ave Display)
-- YouTube, Spotify, Facebook: For providing company logo's
-- Irene J Nehls on pixels.com: For providing the "OVO owl" image which was used as the website banner.
-- wikipedia.org: For providing the images of the albums seen in the "Store" page of the website.
-- drakerelated.com: For providing the images of the merchandise seen in the "Store" page of the website.
-- harpersbazaar.com: For providing image of Drake in the "About" page.
-- https://www.youtube.com/@WebDevSimplified: For providing the instructions and knowledge about web development in order for me to begin this project.
+- Google. (n.d.). Google Fonts. Google Fonts. https://fonts.google.com/
+- YouTube Play Button Computer Icons, youtube, Youtube logo, angle, rectangle, logo png | PNGWing. (n.d.). PNGWing. https://www.pngwing.com/en/free-png-bzzdn
+- Facebook Logo PNG, Free Download Logo Facebook Clipart. (n.d.). FREE PNG LOGOS. https://www.freepnglogos.com/pics/logo-facebookpng
+- Spotify Logo Png. (n.d.). FREE PNG LOGOS. https://www.freepnglogos.com/pics/spotify-logo-png
+- Drake Owl Logo Greeting Card by Irene J Nehls. (2023, January 1). Pixels. https://pixels.com/featured/drake-owl-logo-irene-j-nehls.html?product=greeting-card
+- Wikipedia contributors. (2022a, December 1). Take Care (album). Wikipedia. https://en.wikipedia.org/wiki/Take_Care_(album)
+- Wikipedia contributors. (2022c, December 30). Certified Lover Boy. Wikipedia. https://en.wikipedia.org/wiki/Certified_Lover_Boy
+- Wikipedia contributors. (2022b, December 29). Honestly, Nevermind. Wikipedia. https://en.wikipedia.org/wiki/Honestly,_Nevermind
+- Wikipedia contributors. (2023, January 2). Her Loss. Wikipedia. https://en.wikipedia.org/wiki/Her_Loss
+- DrakeRelated. (n.d.). Shop All. https://drakerelated.com/collections/shop-all
+- https:\/\/www.pngmart.com\/image\/author\/eric#author. (2018, October 2). Drake PNG Image Free Download | PNG Mart. PNG Mart |. https://www.pngmart.com/image/128261
+- Web Dev Simplified. (n.d.). YouTube. https://www.youtube.com/@WebDevSimplified
