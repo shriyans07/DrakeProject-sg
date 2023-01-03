@@ -6,6 +6,7 @@ In the About Page, a biography of Drake is provided. Lastly, in the Store page, 
 simulated version of purchasing items, and you can not receive any of these items.
 In each page, a header is available at the top, which allows you to navigate within the pages. At the bottom of each page, there is a footer that provides Drakes
 YouTube account, Spotify account, and Facebook account.
+Lastly, make sure to check out the recording of this website, which shows a sneak peak into the user interface of the website.
 
 Credits:
 - Google. (n.d.). Google Fonts. Google Fonts. https://fonts.google.com/
